@@ -15,4 +15,4 @@ git init
 # Initialized empty Git repository in /Users/you/README-Bunce/.git/
 
 touch README-Bunce
-# Creates a file called "README-Bunce" in your Hello-World directory
+# Creates a file called "README-Bunce" in your README-Bunce directory
